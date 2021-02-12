@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SOLOMON\\Documents\\C#\\FashionStore\\FashionStore.csproj",
+      "projectUniqueName": "C:\\Users\\SOLOMON\\Documents\\GitHub\\Design\\FashionStore.csproj",
       "projectName": "FashionStore",
-      "projectPath": "C:\\Users\\SOLOMON\\Documents\\C#\\FashionStore\\FashionStore.csproj",
+      "projectPath": "C:\\Users\\SOLOMON\\Documents\\GitHub\\Design\\FashionStore.csproj",
       "packagesPath": "C:\\Users\\SOLOMON\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SOLOMON\\Documents\\C#\\FashionStore\\obj\\",
+      "outputPath": "C:\\Users\\SOLOMON\\Documents\\GitHub\\Design\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SOLOMON\\AppData\\Roaming\\NuGet\\NuGet.Config",

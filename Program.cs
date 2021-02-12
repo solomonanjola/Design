@@ -11,6 +11,7 @@ namespace FashionStore
             int medium = 4000;
             int large = 6000;
 
+            /*When initialised it picks from this line*/
             start:
             Console.WriteLine("SELECT -\n1 - Small\n2 - Medium\n3 - Large\n");
             int UserChoice = int.Parse(Console.ReadLine());

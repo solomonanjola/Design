@@ -11,3 +11,16 @@ C:\Users\SOLOMON\Documents\C#\FashionStore\obj\Debug\netcoreapp3.1\FashionStore.
 C:\Users\SOLOMON\Documents\C#\FashionStore\obj\Debug\netcoreapp3.1\FashionStore.dll
 C:\Users\SOLOMON\Documents\C#\FashionStore\obj\Debug\netcoreapp3.1\FashionStore.pdb
 C:\Users\SOLOMON\Documents\C#\FashionStore\obj\Debug\netcoreapp3.1\FashionStore.genruntimeconfig.cache
+C:\Users\SOLOMON\Documents\GitHub\Design\bin\Debug\netcoreapp3.1\FashionStore.exe
+C:\Users\SOLOMON\Documents\GitHub\Design\bin\Debug\netcoreapp3.1\FashionStore.deps.json
+C:\Users\SOLOMON\Documents\GitHub\Design\bin\Debug\netcoreapp3.1\FashionStore.runtimeconfig.json
+C:\Users\SOLOMON\Documents\GitHub\Design\bin\Debug\netcoreapp3.1\FashionStore.runtimeconfig.dev.json
+C:\Users\SOLOMON\Documents\GitHub\Design\bin\Debug\netcoreapp3.1\FashionStore.dll
+C:\Users\SOLOMON\Documents\GitHub\Design\bin\Debug\netcoreapp3.1\FashionStore.pdb
+C:\Users\SOLOMON\Documents\GitHub\Design\obj\Debug\netcoreapp3.1\FashionStore.csprojAssemblyReference.cache
+C:\Users\SOLOMON\Documents\GitHub\Design\obj\Debug\netcoreapp3.1\FashionStore.AssemblyInfoInputs.cache
+C:\Users\SOLOMON\Documents\GitHub\Design\obj\Debug\netcoreapp3.1\FashionStore.AssemblyInfo.cs
+C:\Users\SOLOMON\Documents\GitHub\Design\obj\Debug\netcoreapp3.1\FashionStore.csproj.CoreCompileInputs.cache
+C:\Users\SOLOMON\Documents\GitHub\Design\obj\Debug\netcoreapp3.1\FashionStore.dll
+C:\Users\SOLOMON\Documents\GitHub\Design\obj\Debug\netcoreapp3.1\FashionStore.pdb
+C:\Users\SOLOMON\Documents\GitHub\Design\obj\Debug\netcoreapp3.1\FashionStore.genruntimeconfig.cache
